@@ -22,7 +22,7 @@
 
 
 
-![Wesleyvilanova GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesleyvilavova&show_icons=true&theme=dracula)
+![Wesleyvilanova GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleyVilaNova&show_icons=true&theme=dracula)
 
 
 </div> <br/>
