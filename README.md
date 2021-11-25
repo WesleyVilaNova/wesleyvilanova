@@ -1,4 +1,5 @@
-### Olá eu sou o Wesley Vila Nova 👋 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-v-n-d-l-torres-646998222/)
+### Olá eu sou o Wesley Vila Nova 👋                                       
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-v-n-d-l-torres-646998222/)
 
 
 ### Sou apaixonado por tecnologia, transformação e estou em constante evolução na carreira. 
