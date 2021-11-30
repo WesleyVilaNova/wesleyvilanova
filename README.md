@@ -4,9 +4,8 @@
 
 ### Sou apaixonado por tecnologia, transformação e estou em constante evolução na carreira. 
 ### Sou um entusiasta da tecnologia Java.
-### Sou criativo, seja para resolução de problemas como para desenvolvimento de aplicações no trabalho.
-### Na sua equipe você vai ter uma pessoa 100% dedicada e que sempre vai estar buscando melhorar suas habilidades no trabalho. Além disso, disciplina, otimismo e foco é uma coisa que levo para vida.
-### Por fim, estou disposto a novos desafios na carreira, disponível para trabalho remoto, híbrido ou presencial.
+### trabalho com o desenvolvimento Mobile ( Kotlin / Java )
+
 ### Atualmente estou Usando/Estudando as seguintes tecnologias:
 <div style="display: inline_block"><br/>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -23,9 +22,7 @@
 
 
 </div><br/>
-
-### Atuo com Java 16, já realizei alguns cursos essenciais na área de programação os quais constam no linkedin. 
-### Estou buscando oportunidade para desenvolver toda teoria que venho aprendendo, seja como estagiário, trainner ou Júnior. 
+ 
 ### Atualmente estou terminando um curso pela Udemy “Java Completo” onde vejo o Framework Spring Boot, os bancos de dados utilizados são MySQL e MongoDB (Web Services + NoSQL) e para o gerenciamento de dependências de projetos utilizamos o Maven. 
  
 </div><br/>
