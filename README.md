@@ -28,7 +28,7 @@
 
 </div><br/>
  
-### Atualmente estou terminando um curso pela Udemy “Java Completo” onde vejo o Framework Spring Boot, os bancos de dados utilizados são MySQL e MongoDB (Web Services + NoSQL) e para o gerenciamento de dependências de projetos utilizamos o Maven. ( Atualizado em 30/11/2021 ).
+### Atualmente cursando "Curso completo de Kotlin para Android" pela Udemy. 
  
 </div><br/>
 
