@@ -3,10 +3,8 @@
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-v-n-d-l-torres-646998222/)
 
 
-## Sou desenvolvedor mobile ( Java / Kotlin ) e estou em constante evolução na carreira.
-### _I'm a mobile developer (Java / Kotlin) and I'm constantly evolving in my career._
-## Escolhi a área mobile, pois sempre foi a área da programação que me encheu os olhos! 
-### _I chose the mobile area, as it was always the programming area that filled my eyes!_
+## Sou Desenvolvedor Nativo Android | Kotlin | Java 
+### _I'm Native developer Java | Kotlin .
 
 ## Atualmente estou Usando/Estudando as seguintes tecnologias:
 <div style="display: inline_block"><br/>
