@@ -17,9 +17,6 @@
 ## Meus objetivos na carreira são grandes e desafiadores, mas como sou uma pessoa focada e disciplinada tenho certeza que irei conseguir meus objetivos!
 ### _My career goals are big and challenging, but as I'm a focused and disciplined person, I'm sure I will achieve my goals!_
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=WesleyVilaNova&show_icons=true&theme=dracula&include_a_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyVilaNova&layout=compact&langs_count=7&theme=dracula">
-
-
 
 </div><br/>
  
