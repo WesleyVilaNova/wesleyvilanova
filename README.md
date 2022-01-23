@@ -32,7 +32,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de 
 • Sinta-se à vontade para entrar em contato diretamente aqui pelo Linkedin, responderei assim que possível. 👍
 
 
-Estudando ... 📚💻♨️
+Estudando e trablhando... 📚💻♨️
  
 </div><br/>
 
