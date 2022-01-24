@@ -9,10 +9,10 @@
 </div><br/>
 
 ## Desenvolvedor Android Nativo com conhecimentos em : 
- Java
- Kotlin ...
- Git/GitHub
- MVVM / Clean Architecture
+ Java,
+ Kotlin,
+ Git/GitHub,
+ MVVM / Clean Architecture,
  Elementos de Layout , RecyclerView, Adapter, etc ...
 
 • Atualmente adquirindo conhecimentos sobre :
