@@ -27,7 +27,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (EAD).
 
-• Sinta-se à vontade para entrar em contato diretamente aqui pelo Linkedin, responderei assim que possível. 👍
+• Sinta-se à vontade para entrar em contato diretamente pelo Linkedin, responderei assim que possível. 👍
 
 
 Estudando e trablhando... 📚💻♨️
