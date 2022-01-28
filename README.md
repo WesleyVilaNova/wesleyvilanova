@@ -16,14 +16,13 @@
 
 • Atualmente adquirindo conhecimentos sobre :
 
- API RestFull - Retrofit2.
+ API RestFull - Retrofit2,
  Firebase - DataBase, Authentication, Storage, etc.
- Bancos de dados interno - SQLite/Room
- Desenvolvimento UI para Android
- ToolBar
- Gestão Ágil - Scrum
+ Bancos de dados interno - SQLite/Room,
+ Desenvolvimento UI para Android,
+ ToolBar,
+ Gestão Ágil - Scrum,
  Publicação de APP e manutenção na PlayStore.
- Idiomas : Inglês A2
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (EAD).
 
