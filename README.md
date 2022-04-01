@@ -7,16 +7,18 @@
  Kotlin,
  Git/GitHub,
  MVVM / Clean Architecture,
- Elementos de Layout , RecyclerView, Adapter, etc ...
-
-• Atualmente adquirindo conhecimentos sobre :
-
+ Elementos de Layout , RecyclerView, Adapter,
  API RestFull - Retrofit2,
- Firebase - DataBase, Authentication, Storage, etc.
  Bancos de dados interno - SQLite/Room,
  Desenvolvimento UI para Android,
  ToolBar,
  Gestão Ágil - Scrum,
+ 
+ etc ...
+
+• Atualmente adquirindo conhecimentos sobre :
+
+ Firebase - DataBase, Authentication, Storage, etc.
  Publicação de APP e manutenção na PlayStore.
 
 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (EAD).
