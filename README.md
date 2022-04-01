@@ -12,9 +12,7 @@
  Bancos de dados interno - SQLite/Room,
  Desenvolvimento UI para Android,
  ToolBar,
- Gestão Ágil - Scrum,
- 
- etc ...
+ Gestão Ágil - Scrum, etc ...
 
 • Atualmente adquirindo conhecimentos sobre :
 
