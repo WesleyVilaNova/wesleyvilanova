@@ -1,5 +1,4 @@
-![FUTURE AT HEART](https://user-images.githubusercontent.com/92765775/167494548-c9ef24c7-b635-4f30-8c52-8fbd063fa7f0.png)
-
+![Developer Mobile](https://user-images.githubusercontent.com/92765775/167496553-dbdb73c0-424d-45e6-b365-f6e44e36f1f6.png)
 
 ## Olá, eu sou o Wesley Vila Nova 👋  
 ### Desenvolvedor Android Nativo, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Além de estar sempre atento às novidades sobre desenvolvimento mobile, às vezes busco saciar minha curiosidade sobre a área financeira. Nas horas vagas, relaxo com minha família e leio um bom livro. 
