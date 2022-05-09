@@ -8,11 +8,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de 
 • Sinta-se à vontade para entrar em contato diretamente pelo Linkedin, responderei assim que possível. 👍
 
 Estudando e trablhando... 📚💻♨️
- 
 </div><br/>
 
 ### Abaixo você encontra meu principal contatos:
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-vila-nova/)
-
 </div> <br/>
